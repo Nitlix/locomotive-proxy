@@ -1,0 +1,13 @@
+{
+    "name": "locomotive-proxy",
+    "version": "1.0.0",
+    "description": "🥳 An alternative proxy for combining GSAP with Locomotive Scroll",
+    "main": "./dist/exports.js",
+    "keywords": [],
+    "author": "NITLIX HOLDINGS LTD.",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/react": "^18.2.37",
+        "react": "^18.2.0"
+    }
+}
